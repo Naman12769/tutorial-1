@@ -1,2 +1,0 @@
-console.log("my name naman jain");
-console.log("this is me and my problem");
